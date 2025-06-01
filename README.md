@@ -1,6 +1,5 @@
-# admissions-dashboard
-An analysis of gender bias in college admissions
 ## Admissions Dashboard
+An Analysis of Gender Bias in College Admissions
 - **Live preview (embedded)**  
   https://Inonge-00.github.io/admissions-dashboard/  
 - **Download the Excel file**  
